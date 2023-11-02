@@ -1,0 +1,10 @@
+C:\Users\Abu\source\repos\Matrix Operations\bin\Release\Matrix Operations.exe.config
+C:\Users\Abu\source\repos\Matrix Operations\bin\Release\Matrix Operations.exe
+C:\Users\Abu\source\repos\Matrix Operations\bin\Release\Matrix Operations.pdb
+C:\Users\Abu\source\repos\Matrix Operations\obj\Release\Matrix Operations.csproj.AssemblyReference.cache
+C:\Users\Abu\source\repos\Matrix Operations\obj\Release\Matrix_Operations.Form1.resources
+C:\Users\Abu\source\repos\Matrix Operations\obj\Release\Matrix_Operations.Properties.Resources.resources
+C:\Users\Abu\source\repos\Matrix Operations\obj\Release\Matrix Operations.csproj.GenerateResource.cache
+C:\Users\Abu\source\repos\Matrix Operations\obj\Release\Matrix Operations.csproj.CoreCompileInputs.cache
+C:\Users\Abu\source\repos\Matrix Operations\obj\Release\Matrix Operations.exe
+C:\Users\Abu\source\repos\Matrix Operations\obj\Release\Matrix Operations.pdb
